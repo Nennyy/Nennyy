@@ -29,14 +29,11 @@ Currently improving my Python proficiency. I have practical experience in Excel,
 
 ### How to reach me: ...
 - [LinkedIn](https://linkedin.com/in/maryannnwanaforo/)
-- [Twitter](https://twitter.com/nenny)
 - [Email Me](mailto:your.email@example.com)
-- [Medium](https://medium.com/@maryannnnennan)
-- [Linktree](https://linktr.ee/maryannnnennanwanaforo)
 
 ## 😄 Pronouns: 
 she/her
 
 ###  ⚡ Fun fact:
-- I am adventurous, love to hike, swim, play tennis, play badminton, travel a lot, obssessded about professional development, 
+- I am adventurous, love to Read, hike, swim, play tennis, badminton, travel, obssessded about professional development, 
 -->
