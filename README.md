@@ -1,7 +1,8 @@
 ## Hi there 👋 
-I'm Maryann Nnenna Nwanaforo (Nenny)
+I'm Nnenna Nwanaforo
 
-I’m a result-driven Data Analyst and Digital Marketer who has led high-impact projects, launched data-backed campaigns and products, and consistently improved ROI. I'm obsessed with transforming underperforming strategies into growth engines and turning raw data into sharp, actionable insights that move the business forward.
+I’m a Data Analyst who has led high-impact projects, launched data-backed campaigns and products, and consistently improved ROI. I'm obsessed with transforming underperforming strategies into growth engines, Skilled in extracting, cleaning and turning data into actionable insights that support business decision. 
+Currently improving my Python proficiency. I have practical experience in Excel, SQL, SAS, and Power BI for data analysis, visualization, and reporting. Proficient in collaborating with teams to complete data-driven projects and streamline processes. Passionate about solving problems and seeking opportunities to grow in a dynamic entry-level data analyst role.
 
 ### 🔭 I am currecntly working on 
 - Improving my skills in SQL, PowerBI, and Python
@@ -10,7 +11,6 @@ I’m a result-driven Data Analyst and Digital Marketer who has led high-impact 
 ### 🌱 I’m currently learning
 - Advanced SQL
 - Advanced data visualization techniques
-- Automation in Marketing
 - Python
 
 ### 👯 I’m looking to collaborate on 
@@ -19,13 +19,13 @@ I’m a result-driven Data Analyst and Digital Marketer who has led high-impact 
 - Open-source initiatives
 
 ### 🤔 I’m looking for help with
-- Jobs in and around the UK (Sponsored jobs)
+- Live Projects to work on
+- Jobs in and around the UK
 
 ### 💬 Ask me about
-- Marketing
 - Data Analytics
-- Content Creation
-- SDGs and SDG projects
+- SQL
+- 
 
 ### How to reach me: ...
 - [LinkedIn](https://linkedin.com/in/maryannnwanaforo/)
